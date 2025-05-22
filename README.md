@@ -1,0 +1,1 @@
+Joke Fetcher is a simple Python script that fetches a random joke from a public API and displays it in the console. It demonstrates how to work with RESTful APIs using the requests library, handle JSON data, and manage basic error handling.
